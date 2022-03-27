@@ -1,10 +1,10 @@
 {
-    "version": "21.09.05",
+    "version": "22.03.08",
     "description": "Customizable Windows terminal with tabs, splits, quake-style, hotkeys and more.",
     "homepage": "https://conemu.github.io/",
     "license": "BSD-3-Clause",
-    "url": "https://github.com/Maximus5/ConEmu/releases/download/v21.09.05/ConEmuPack.210905.7z",
-    "hash": "70b84eb72380775dad674f3120c1dcfc080669535d1c02246a59d9108187979d",
+    "url": "https://github.com/Maximus5/ConEmu/releases/download/v22.03.08/ConEmuPack.220308.7z",
+    "hash": "a003f976690f6afb59f8244a80cfe17a20d9d5183305da20a47c3cae437acafb",
     "pre_install": [
         "$xml = \"$dir\\ConEmu\\ConEmu.xml\"",
         "if(!(Test-Path \"$xml\")) {",
