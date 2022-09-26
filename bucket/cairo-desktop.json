@@ -1,17 +1,17 @@
 {
-    "version": "0.4.243",
+    "version": "0.4.245",
     "description": "Alternative desktop environment for Windows",
     "homepage": "https://cairoshell.com",
     "license": "Apache-2.0",
     "notes": ".NET 4.7.1 is required",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cairoshell/cairoshell/releases/download/v0.4.243/CairoSetup_64bit.exe#/dl.7z",
-            "hash": "ab0c1cc75cea32f78318753c682ecf86fde4d78b49d2ed9b50073217ddd944ec"
+            "url": "https://github.com/cairoshell/cairoshell/releases/download/v0.4.245/CairoSetup_64bit.exe#/dl.7z",
+            "hash": "c84ce4f35dfe0ada475f680551d653d264855a1d477ead3af5c0564e8b74a4a7"
         },
         "32bit": {
-            "url": "https://github.com/cairoshell/cairoshell/releases/download/v0.4.243/CairoSetup_32bit.exe#/dl.7z",
-            "hash": "d97510cb2ec07d054d40612f85a2a777044ae57eb005b7440cb7232dc7eb0c81"
+            "url": "https://github.com/cairoshell/cairoshell/releases/download/v0.4.245/CairoSetup_32bit.exe#/dl.7z",
+            "hash": "a66ba240c307ba94428350778c2fc46eeafa42c86bff1288c2bda34df2d12096"
         }
     },
     "pre_install": "Remove-Item \"$dir\\`$*\" -Recurse",
