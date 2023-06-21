@@ -1,12 +1,12 @@
 {
-    "version": "2.7.24",
+    "version": "2.7.30",
     "description": "Static WYSIWYG website builder",
     "homepage": "https://github.com/silexlabs/silex-desktop",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/silexlabs/silex-desktop/releases/download/v2.7.24/silex-desktop-Setup-2.7.24.exe#/dl.7z",
-            "hash": "sha512:fc111a5146b38d81d5c8cd942a3f6372a9f9e6245c0dd74561ec9a537408207bc1a5e15cdc40b5ae4d502872ffe343994da76eff482311a6a2cb6976480f1c11"
+            "url": "https://github.com/silexlabs/silex-desktop/releases/download/v2.7.30/silex-desktop-Setup-2.7.30.exe#/dl.7z",
+            "hash": "db8f0de7573adcc21c4f2abe2ee940afe79b1adbb3c828e5bdd9367ce6c58ace"
         }
     },
     "pre_install": [
