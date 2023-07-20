@@ -1,17 +1,17 @@
 {
-    "version": "10.0.2",
+    "version": "11.0.0",
     "description": "Qt Creator CDB Debugger Support",
     "homepage": "https://doc.qt.io/qtcreator/index.html",
     "license": "GPL-3.0-only",
     "depends": "extras/qt-creator",
     "architecture": {
         "64bit": {
-            "url": "https://download.qt.io/official_releases/qtcreator/10.0/10.0.2/installer_source/windows_x64/qtcreatorcdbext.7z",
-            "hash": "md5:ac79499329278af951761ef6605fd2d7"
+            "url": "https://download.qt.io/official_releases/qtcreator/11.0/11.0.0/installer_source/windows_x64/qtcreatorcdbext.7z",
+            "hash": "764fec5728f3eeb9daf0eec201374c9485a6e9790c0380dcee73bb8d1d7cc21f"
         },
         "32bit": {
-            "url": "https://download.qt.io/official_releases/qtcreator/10.0/10.0.2/installer_source/windows_x86/qtcreatorcdbext.7z",
-            "hash": "md5:866883a8bcd89a65bda93d79542caa01"
+            "url": "https://download.qt.io/official_releases/qtcreator/11.0/11.0.0/installer_source/windows_x86/qtcreatorcdbext.7z",
+            "hash": "6f115e38effbb4c7a48a771dbdb8e335fd2443fe3a9292e186493162755961fe"
         }
     },
     "post_install": [
